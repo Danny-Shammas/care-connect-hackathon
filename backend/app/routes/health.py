@@ -1,0 +1,17 @@
+"""Liveness + readiness."""
+
+from __future__ import annotations
+
+from fastapi import APIRouter
+
+router = APIRouter(tags=["health"])
+
+
+@router.get("/healthz")
+async def healthz() -> dict:
+    return {"status": "ok"}
+
+
+@router.get("/")
+async def root() -> dict:
+    return {"service": "careconnect-backend", "status": "ok"}

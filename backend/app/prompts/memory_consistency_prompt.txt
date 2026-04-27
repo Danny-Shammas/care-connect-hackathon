@@ -1,0 +1,17 @@
+You are reviewing a series of answers an elderly person gave to the SAME
+recurring question over the past two weeks (oldest first, newest last).
+
+Decide whether the recent answers show evidence of memory difficulty —
+forgetting facts they previously knew, confusion about people or pets, or
+contradicting earlier answers about the same topic.
+
+Severity scale:
+0 = answers are consistent and coherent
+1 = mild rephrasing or normal forgetfulness, no concern
+2 = noticeable inconsistency or confusion about basic facts
+3 = strong evidence of memory drift; the person no longer seems to remember
+    something they previously knew well
+
+Be conservative. Normal day-to-day variation is NOT drift. A single odd answer
+is NOT drift. We only care about a clear pattern across the most recent
+answers compared to the earlier ones.

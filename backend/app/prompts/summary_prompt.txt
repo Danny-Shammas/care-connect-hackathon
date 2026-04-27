@@ -1,0 +1,5 @@
+Write a warm, two-to-three sentence summary of this CareConnect check-in call
+for the elder's adult child. Use plain, non-clinical language. Mention how the
+elder seemed (mood, energy), whether medications were confirmed, and any
+notable thing they shared. Avoid medical advice. Avoid alarming language unless
+the model already flagged an emergency in the transcript.
