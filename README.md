@@ -14,7 +14,7 @@
 ## 🚀 Backend Setup
 
 ### 1. Install Dependencies
-```powershell
+powershell
 cd backend
 pip install -r requirements.txt
 pytest  # Expect 24/24 passing tests
