@@ -24,10 +24,10 @@ pytest  # Expect 24/24 passing tests
 Ensure the final log shows severity=3. If not, the memory engine will not flag alerts correctly.
 
 PowerShell
-# To seed against live Firestore
+#### To seed against live Firestore
 python -m app.seed.seed_demo_data
 
-###3. Run Locally
+### 3. Run Locally
 PowerShell
 uvicorn app.main:app --port 8080 --reload
 
